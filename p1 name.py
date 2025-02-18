@@ -1,0 +1,6 @@
+print("Hie Hello")
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")

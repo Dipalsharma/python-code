@@ -1,0 +1,9 @@
+mon=30
+tue=28
+wed=26
+thu=15
+fri=18
+total=mon+tue+wed+thu+fri
+avg=total/5
+print("total =",total)
+print("avg =",avg)

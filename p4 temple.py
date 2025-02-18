@@ -1,0 +1,7 @@
+print("temple")
+print("    *    ")
+print("   ***   ")
+print("  *****  ")
+print("*********")
+print("*       *")
+print("*********")

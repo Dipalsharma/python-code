@@ -1,0 +1,8 @@
+print("Calculator")
+print("*"*30)
+no1 = int(input("Enter no1 =>"))
+no2 = int(input("Enter no2 =>"))
+print(" total =", no1+no2)
+print(" sub   =",no1-no2)
+print(" mul   =",no1*no2)
+print(" div   =",no1/no2)
